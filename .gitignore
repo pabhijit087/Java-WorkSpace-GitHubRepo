@@ -1,0 +1,15 @@
+# Java compiled files
+*.class
+
+# Build output
+target/
+build/
+out/
+
+# IDE files
+.settings/
+.project
+.classpath
+
+# Logs
+*.log
